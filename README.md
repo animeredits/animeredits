@@ -1,6 +1,6 @@
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Animeredits" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2473F7FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Animeredits" />
 </h3>
 <div align="center"> 
                        
@@ -41,27 +41,33 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=animeredits&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeredits&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
 <br/><br/>
+![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-Js-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VSCODE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+    <!--<img src="https://img.shields.io/github/followers/animeredits?label=Follow&style=plastic">
+<img src="https://img.shields.io/github/stars/animeredits?label=Stars&style=plastic">-->
 <hr/>
 
 ###
-
 <br clear="single">
 
-<img align="right" height="200" src="https://media.giphy.com/media/hQ0YSPGNbBVjq/giphy.gif"  />
+<!--<img align="right" height="180" src="https://media.giphy.com/media/hQ0YSPGNbBVjq/giphy.gif"  />
+<br/>-->
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools⚒️ </h2>
 
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,php" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,php,vscode,figma,photoshop,git,github" /><br>
+    <!--<img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,git,github" />-->
 </div>
 
 
-<h1> Watch 🐍 eating my github contributions</h1>
+<h2 align="center"> Watch 🐍 eating my github contributions</h2>
 
 <br clear="both">
 
@@ -70,7 +76,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Instagram!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=2473F7FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Instagram!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
