@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Competitive Coding.
 - 💬 Ask me about Programming, any Tech related stuff.
 - 😄 Pronouns: Her/He.
-- ⚡ Fun fact: I Watch anime every nigh 4-5 hours.
+- ⚡ Fun fact: I Watch anime every night 4-5 hours.
 
 <h2 align="center">Hi 👋, I'm Animeredits</h2>
 
