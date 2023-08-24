@@ -60,7 +60,9 @@
 
 <br clear="both">
 
-![snake [gif](https://github.com/animeredits/animeredits/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/animeredits/animeredits/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/animeredits/animeredits/blob/output/github-contribution-grid-snake.gif)
+
+<!--![snake [gif](https://github.com/animeredits/animeredits/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/animeredits/animeredits/raw/output/github-contribution-grid-snake.svg)-->
 
 ###
 
