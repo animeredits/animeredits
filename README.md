@@ -7,7 +7,7 @@
 <!-- 📫 How to reach me:-->
  🔭 I’m currently working on improving Web development skills.
  
- 🌱 I’m currently learning React js.
+ 🌱 I’m currently learning Node js & Express js.
  
 👯 I’m looking to collaborate on youtube.
 
