@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <a href="https://youtube.com/@animerdits" target="_blank">
+  <a href="https://youtube.com/@animeObsesse" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=CD201F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/anime_redits?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
