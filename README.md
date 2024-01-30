@@ -62,7 +62,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,php,vscode,figma,photoshop,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=mongoDB,express,react,node,git,github,html,css,javascript,photoshop" /><br>
     <!--<img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,git,github" />-->
 </div>
 
