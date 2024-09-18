@@ -14,8 +14,6 @@
 🤔 I’m looking for help with Competitive Coding.
 
  💬 Ask me about Programming, any Tech related stuff.
- 
-😄 Pronouns: Her/He.
 
 ⚡ Fun fact: I Watch anime every night 4-5 hours.
 
