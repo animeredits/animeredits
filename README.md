@@ -65,7 +65,8 @@
 
 <br clear="both">
 
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/animeredits/animeredits/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/animeredits/animeredits/output/snake.svg" alt="snake eating my contributions" />
+
 <br/><br/>
 <hr/>
 
