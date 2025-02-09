@@ -1,12 +1,21 @@
 
 <h1 align="center">Hi 👋 I am Animeredits</h1>
 
-<div align="center">   
+<div align="left">   
     
-🔭 I’m constantly improving my web development skills and expanding my knowledge.
+- 🔭 I’m constantly improving my web development skills and expanding my knowledge.
     
- 💬 Feel free to reach out with any questions about web development or any other tech topics!
+- 💬 Feel free to reach out with any questions about web development or any other tech topics!
+
+- 📫 How to reach me **animeredits63@gmail.com**
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rohit-kumar-b462ba291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-kumar-b462ba291/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anime_redits/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anime_redits/" height="30" width="40" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a> -->
+</p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
