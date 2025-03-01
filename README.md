@@ -7,7 +7,7 @@
     
 - 💬 Feel free to reach out with any questions about web development or any other tech topics!
 
-- 📫 How to reach me **[animeredits63@gmail.com](mailto:animeredits63@gmail.com)**
+- 📫 How to reach me **[Email](mailto:animeredits63@gmail.com)**
 </div>
 
 <h3 align="left">Connect with me:</h3>
